@@ -1,0 +1,122 @@
+{
+    "author": "Senne Scheepers",
+    "intro": "INTRO",
+    "activities": [
+        {
+            "title": "Projectweek",
+            "location": "Online",
+            "date": "Eerste week semester 2 academiejaar 2",
+            "description": "De eerste week van het tweede semester in trajectschijf twee werd gevuld met een projectweek. Deze week zat boordevol online seminaries en sessies die ons voorbereid hebben op de volgende semesters."
+        },
+        {
+            "title": "Innovatieroute UI/UX",
+            "location": "Hogeschool PXL",
+            "date": "Eerste 4 weken academiejaar 3",
+            "description": "Deze innovatieroute bestond uit drie sessies die in de eerste vier weken van het derde academiejaar op school plaatsvonden. Medewerkers van AppWise, AppFoundry en Humix gaven uitleg over verschillende principes binnen UI en UX."
+        },
+        {
+            "title": "Hackathon PXL-Digital",
+            "location": "Online",
+            "date": "15 en 16 februari 2022",
+            "description": "Tijdens deze hackathon werden er in samenwerking met studenten van de opleiding ergotherapie minigames gemaakt voor op tablets."
+        },
+        {
+            "title": "Seminarie Eurofins: Docker",
+            "location": "PXL",
+            "date": "8 december 2021",
+            "description": "Er werd een intro gegeven in containers gebruiken in Docker."
+        },
+        {
+            "title": "Seminarie Eurofins: API testing",
+            "location": "PXL",
+            "date": "24 november 2021",
+            "description": "Aan de hand van opdrachten werd er uitleg gegeven over hoe API’s getest worden."
+        },
+        {
+            "title": "Seminarie IT-Licious: Flutter",
+            "location": "PXL",
+            "date": "17 november 2021",
+            "description": "We kregen uitleg over hoe apps gemaakt worden met het Flutter framework. Aan de hand van een opdracht maakten we zelf ook een simpele app."
+        },
+        {
+            "title": "Seminarie Devoteam: Kubernetes",
+            "location": "PXL",
+            "date": "10 november 2021",
+            "description": "We kregen afwisselend uitleg en opdrachten om de basis van Kubernetes aan te leren."
+        },
+        {
+            "title": "POP-sessie: My team and I",
+            "location": "I-Space, Corda Campus",
+            "date": "23 november 2021",
+            "description": "Tijdens de sessie voerden we activiteiten uit om de andere studenten van het projectteam beter te leren kennen."
+        },
+        {
+            "title": "POP-sessie: brein aan het werk",
+            "location": "Online",
+            "date": "16 maart 2021",
+            "description": "Tijdens de sessie voerden we activiteiten uit om de andere studenten van het projectteam beter te leren kennen."
+        },
+        {
+            "title": "POP-sessie: (Veer)Krachtige teams",
+            "location": "Online",
+            "date": "23 maart 2021",
+            "description": "Er werd besproken hoe we als team beter kunnen samenwerken en elkaar kunnen ondersteunen wanneer nodig."
+        },
+        {
+            "title": "Seminarie TPO",
+            "location": "Online",
+            "date": "27 april 2021",
+            "description": "We kregen uitleg over serverless technologieën."
+        },
+        {
+            "title": "Seminarie Refleqt",
+            "location": "Online",
+            "date": "20 april 2021",
+            "description": "We kregen uitleg en een opdracht rondom automated testin met Cypress."
+        },
+        {
+            "title": "Seminarie Solita: iPaaS",
+            "location": "Online",
+            "date": "30 maart 2021",
+            "description": "We kregen uitleg en een opdracht rondom Integration Platform as a Service (iPaaS)."
+        },
+        {
+            "title": "Seminarie Oswald: Chatbots",
+            "location": "Online",
+            "date": "9 maart 2021",
+            "description": "We kregen uitleg over chatbots en hoe deze gemaakt en gebruikt worden."
+        },
+        {
+            "title": "Oud-leerlingenavond HGI",
+            "location": "Heilig-grafinstituut Bilzen",
+            "date": "11 maart 2022",
+            "description": "Een avond, georganiseerd door mijn oude middelbare school, waar zesdejaars aan de oud-leerlingen vragen kunnen stellen over de verschillende richtingen in het hoger onderwijs."
+        }
+    ],
+    "reports": [
+        {
+            "title": "Innovatieroute UI/UX",
+            "report": "Tijdens het eerste semester van trajectschijf drie organiseerde PXL-Digital een aantal innovatieroutes voor het opleidingsonderdeel I-Talent. Ik heb gekozen voor de innovatieroute UI/UX, bestaande uit drie dagen uitleg en workshops gespreid over drie weken. De eerste sessie werd gegeven door twee medewerksters van Appwise, de twee volgende sessies door medewerkers van AppFoundry en Humix. Tijdens deze seminaries heb ik geleerd over de verschillende aspecten van UX en het marktonderzoek dat voorafgaat aan een softwareproject, dit werd gedaan door middel van theorie en opdrachten.\n\nTijdens de eerste sessie was er één opdracht: een redesign of het toevoegen van een feature aan de dating app “Tinder”. De tweede opdracht was verdeeld over de tweede en derde sessie. Deze opdracht omvatte het bedenken van een probleemstelling en oplossing door gebruik te maken van een mobiele applicatie en werd uitgewerkt van een idee tot werkende prototypes die vooraan de klas gedeeld werden.\n\nVoor de eerste opdracht werkte ik in een groep van vier personen. We moesten nadenken over hoe we de populaire datingapp “Tinder” konden verbeteren aan de hand van een redesign of het toevoegen van nieuwe features. We hebben als groep gekozen voor de tweede optie, zo hebben we een aantal toevoegingen bedacht om meer personen te vinden met gelijkaardige interesses en het starten van een gesprek makkelijker te maken. Een paar voorbeelden van deze features zijn: een reden geven waarom je iemand leuk vindt, voordat het gesprek start een gespreksonderwerp invoeren, een filtersysteem voor de gebruiksreden van de app, etc. Het was belangrijk dat we zo veel mogelijk ideeën opschreven en dan pas nadachten over de technische mogelijkheden, zo zorgden we er voor dat we onze denkwijze niet limiteerde en bepaalde ideeën verloren zouden gaan. Voor deze nieuwe features moesten ook wireframes gemaakt worden die lieten zien hoe we onze nieuwe functionaliteit in de bestaande app zouden integreren. Uiteindelijk werd de opdracht afgesloten met een korte pitch van onze ideeën aan de rest van de studenten.\n\nTijdens de tweede opdracht werkte ik opnieuw in een groep van vier personen. Om te beginnen moesten we probleem definiëren dat we aan de hand van een app kunnen oplossen. Ieder idee werd opgeschreven en uiteindelijk werden deze gerangschikt om het beste idee te selecteren. Het probleem dat aangepakt werd door ons was het gebrek aan inzicht over de verschillende PXL-parkings. De volgende stap was om mogelijke oplossingen op te lijsten, deze te rangschikken en uiteindelijk de meest haalbare of interessante te bepalen. Een reservatiesysteem leek ons het meest haalbare om uit te werken tot een mobiele applicatie. Met dit idee zijn we op papier wireframes beginnen tekenen, dit liet ons toe om op een hoog tempo te itereren over ons UX-ontwerp en zo de beste lay-out te vinden. Wireframing is een zeer belangrijke stap aangezien we hier bepalen hoe de applicatie opgebouwd gaat worden. Het is de bedoeling dat alles zo intuïtief mogelijk is en gebruikers niet moeten nadenken over waar ze bepaalde acties kunnen ondernemen of bepaalde informatie kunnen vinden, deze stap bepaalt hoe gebruiksvriendelijk de applicatie is en moet altijd afgestemd worden op het doelpubliek. Vervolgens werd met het gekozen UX-ontwerp aan de slag gegaan om er een UI van te maken. Voor deze stap werd gebruik gemaakt van de tool ‘Figma’, het liet ons toe om onze UX-ontwerpen om te zetten naar een digitale vorm en deze om te vormen naar een UI. Om af te sluiten volgde natuurlijk ook nog een kleine pitch van ons idee aan de rest van de studenten.\n\nIk zie deze seminaries als een echte meerwaarde voor mijn toekomstig werk en projecten, het heeft me een inzicht gegeven en doen nadenken over het proces dat voorafgaat aan ons werk als softwareontwikkelaar. Als ontwikkelaar ken je het product dat je maakt door en door en zie je de minder intuïtieve onderdelen van het programma niet zo snel, hierdoor is het zeker handig om een beetje kennis op te doen over CX en UX. De topics die behandeld werden liggen zo kort bij het werk dat je doet als ontwikkelaar, maar de benodigde kennis, vaardigheden en mindset ligt er zo ver vandaan, goed worden in beide lijkt me dan ook een lang proces waar veel ervaring voor vereist is. Deze seminaries waren ook iets helemaal anders dan de gewoonlijke seminaries die aangeboden worden door de school. De andere seminaries zijn allemaal gericht op iets technisch waar we waarschijnlijk ooit al wel eens les over gehad hebben, maar doordat we als ontwikkelaars geen lessen krijgen over UI en UX was alle informatie uit deze seminaries nieuw.\n\nIk ga in mijn schoolprojecten, stage en eigen projecten in mijn vrije tijd vanaf nu zeker meer aandacht besteden aan hoe een gebruiker interageert met de applicatie. Mock-ups maken vooraleer ik begin met programmeren was iets dat ik in mijn eigen projecten al regelmatig deed en dit zorgde voor kwalitatievere UI’s en websites, maar door meer tijd de besteden aan marktonderzoek en het optimaliseren van de UX voor het doelpubliek geloof ik dat ik beter werk kan opleveren.",
+            "pictures": [
+                "https://firebasestorage.googleapis.com/v0/b/whaka-f971a.appspot.com/o/Afbeelding1.jpg?alt=media&token=fb08c113-efe7-4547-8b4f-782f5e806c2a",
+                "https://firebasestorage.googleapis.com/v0/b/whaka-f971a.appspot.com/o/Afbeelding2.png?alt=media&token=ad1ed3d0-417c-4dec-b564-60933229ef69"
+            ]
+        },
+        {
+            "title": "Hackathon PXL-Digital",
+            "report": "Op 15 en 16 februari nam ik deel aan een hackathon georganiseerd door PXL-Digital. Deze hackathon was in samenwerking met een aantal studenten van de opleiding ergotherapie. Het doel was om voor bewoners van gehandicaptencentrum Sint-Oda simpele spelletjes te maken die op Android tablets gespeeld kunnen worden. De opdracht werd gerealiseerd in groepen van ongeveer zes studenten toegepaste informatica.\n\nOnze groep kreeg “Malle Mollen” toegekend als spel dat er gemaakt moest worden. De bedoeling van het spel was dat er mollen tevoorschijn komen op het scherm, en wanneer er op getikt wordt moest de mol weer verdwijnen. Nog een belangrijk aspect waren de instellingen die verborgen en vergrendeld moesten worden, zodat de bewoners er zelf niet aankunnen, en het gebruik van geluid en animaties om voor meer interactie met het spel te zorgen. Regelmatig kwamen er lectoren of studenten van de opleiding ergotherapie langs om te kijken hoe ver we stonden en even kort tussentijdse feedback te geven. We gingen aan de slag met Unity, een game engine, waar niemand van het team ervaring mee had. We zijn allemaal begonnen met eerst de basis van Unity te leren. Na een uurtje hadden we het gevoel dat we klaar waren om een simpele game te maken. Zonder al te veel nadenken gingen we aan de slag en leerde gaandeweg bij over hoe we met Unity moesten werken. We maakten grotendeels gebruik van pair programming, dit omdat we merkte dat wanneer we allemaal apart werkte er grote en moeilijke merge confilcts ontstonden op de Unity workspace. De verschillende stappen die we ondernomen hebben zijn: mollen inladen, plaatsen waar de mollen tevoorschijn komen (de gaten) definiëren en laten zien, mollen laten verdwijnen wanneer erop getikt wordt, instelling voorzien (tijd tussen inladen mollen, aantal gaten, geluid aan of uit), nieuwe assets, animaties toevoegen. De eerste stap was het laten zien van mollen op een willekeurige plaats, dit werd gedaan door prefabs te maken van de mollen en deze via een script in te laden in het spel. Vervolgens definieerden we een aantal plaatsen op het scherm waar de mol tevoorschijn zou kunnen komen, dit werd duidelijk gemaakt door een asset van een gat te laten zien op deze plaatsen. De mollen laten verdwijnen wanneer erop getikt wordt werd ook afgehandeld in het script dat de mollen bestuurt, de uitdaging was hier om een nieuwe mol tevoorschijn te laten komen nadat de vorige verdween. Met deze functionaliteit was de core van het spel klaar, wat volgde waren extra features die het spelen van het spel aangenamer maakten. Zo hebben we heel wat tijd gestoken in het maken van aantrekkelijke assests voor het spel, geluidseffecten toevoegen en animaties voorzien om de interactie met het spel te verhogen. Dit is een heel belangrijk aspect voor onze doelgroep, zo hebben merken ze beter dat er iets gebeurt wanneer ze op een mol tikken. Als laatste hebben we de instellingen toegevoegd, hierin kon het aantal gaten, de grootte van de mollen, de vertraging waarmee nieuwe mollen verschenen, en de tijd dat mollen blijven staan voor ze verdwijnen gekozen worden. Deze instellingen zijn allemaal gemaakt om het spel aan te passen naar de mogelijkheden van de bewoner die het gaat spelen. Op het einde van dag twee gaven we als groep een presentatie over wat we gedaan hebben en lieten we in een demo zien hoe ons spel werkte.\n\nIk ben blij dat ik heb voor deze hackathon gekozen heb. Enerzijds omdat game development en Unity iets is wat we nog niet hebben gezien tijdens de lessen, en anderzijds omdat het eindproduct niet verloren is gegaan. Het was zeer motiverend om te weten dat we het deden voor de bewoners, en dat de mini game ook daadwerkelijk een meerwaarde is voor deze mensen. Aangezien we Unity niet in de lessen behandelen had niemand in de groep ervaring met deze technologie, dit zorgde soms voor wat moeilijkheden wanneer sommige personen er sneller mee weg waren dan andere, ookal hadden we de basis redelijk snel door. Iets wat helemaal nieuw voor me was was het feit dat er bij game development buiten het ingewikkelde programmeren ook heel veel creativiteit komt kijken. Het maken van goede assets voor het spel is minstens even belangrijk als het spel vlot en gemakkelijk laten werken. Verder ging het online samenwerken zeer vlot, ik kende iedereen in het team al en van thuis uit werken is tegenwoordig niets nieuws meer. Twee lange dagen na elkaar werken hakte er op het einde wel zwaar in.\n\nUiteindelijk is het gevoel dat ik vooraf over game development had bevestigd. Het is niks voor mij. Mijn interesses binnen softwareontwikkeling liggen ergens anders, en het aanleren van Unity is dus geen meerwaarde naar mijn verdere loopbaan. Dat wil niet zeggen dat ik niks heb bijgeleerd tijdens deze twee dagen, het nadenken over het maken van iets voor mensen met zeer specifieke beperkingen en noden was een grote leermogelijkheid.",
+            "pictures": [
+                "https://firebasestorage.googleapis.com/v0/b/whaka-f971a.appspot.com/o/00001.jpg?alt=media&token=f38cb711-2cf3-45bd-84fa-bc0efc253162",
+                "https://firebasestorage.googleapis.com/v0/b/whaka-f971a.appspot.com/o/00002.jpg?alt=media&token=e1e7116f-4320-4726-b14e-6606f34732eb"
+            ]
+        },
+        {
+            "title": "Seminarie Devoteam: Kubernetes",
+            "report": "Op 10 november 2021 woonde ik een seminarie bij van Devoteam. Dit seminarie ging over het container orchestration system ‘Kubernetes’, een systeem dat instaat voor het automatisch schalen, deployen en onderhouden van Docker containers.\n\nTijdens het seminarie werd theorie afgewisseld met praktische taken om zo zelf lokaal een applicatie te deployen met ‘Kubernetes’. Aan de hand van oefeningen leerde ik stapsgewijs over de basis van Kubernetes. Hoe er applicaties in containers gestoken kunnen worden, hoe ik deze kan deployen via ‘Pods’, hoe ik de applicatie kan schalen met ‘Replicasets’ en ‘Horizontal Pod Autocalers, en uiteindelijk hoe ik een applicatie kan updaten zonder enige down time met ‘Deployements’. Om de opdracht uit te voeren was er door de spreker een applicatie voorzien in Node.JS en ExpressJS, deze applicatie had 2 versies om de update-opdracht uit te voeren. De eerste opdracht was het aanmaken van een ‘Pod’ waarin de applicatie draait, dit werd eerst gedaan via de command line en daarna met een yaml-bestand waarin de configuratie beschreven stond. Vervolgens moest er een ‘ReplicaSet’ aangemaakt worden waarin drie ‘Pods’ die de applicatie bevatten draaien. Een ‘ReplicaSet’ wordt ook aangemaakt aan de ahnd van een yaml-bestand, dit bestand bevat de definitie van de ‘ReplicaSet’ en van de ‘Pod’ die erin draaien. Met deze ‘ReplicaSet’ zijn we zeker dat het aantal gedefinieerde ‘Pods’ altijd draaien, ookal crasht er eentje. Om verschillende soorten ‘Pods’, zoals een front-end en back-end ‘Pod’, samen te laten werken kan er gebruik gemaakt worden van een ’Service’. Hiervan zijn twee soorten: een ‘ClusterIP’ voor interne communicatie en een ‘NodePort’ voor externe communicatie. Voor onze opdracht hadden we geen ‘ClusterIP’ nodig, maar toch hebben we ook deze met een yaml-bestand aangemaakt om te weten hoe het werkt. Een ‘NodePort’ was wel essentieel om de opdracht tot een goed einde te leiden. Ook hier hebben we de ‘NodePort’ aangemaakt met een yaml-bestand. Deze ‘Service’ opent van alle ‘Pods’ de poort naar de buitenwereld, dit is niet optimaal voor de veiligheid van het systeem. Om dit beter te beheren kan er gebruik gemaakt worden van een ‘LoadBalancer’, dit gebruikt in de achtergrond ook een ‘NodePort’, maar voorziet een enkele IP om de applicatie te bereiken. De laatste stap in het maken van een draaiende applicatie is de ‘Deployement’, aan de hand van een ‘Deployement’ kunnen er updates aan de applicatie gedaan worden zonder enige down time, het systeem gaat dan zelf ‘Pod’ per ‘Pod’ updaten zodat er ten alle tijden een ‘Pod’ bereikbaar is. Ook deze ‘Deployements’ worden aan de hand van yaml-bestanden opgesteld. Verder hebben we ook nog zaken behandeld zoals ‘Volumes’ en ‘ConfigMaps’. ‘Volumes’ kunnen gebruikt worden om onze ‘Pods’ toegang te geven tot het fileysytem, zo kunnen ze data die buiten de container staat gebruiken binnen de container om deze te gebruiken in de applicatie. Deze volumes zijn een bepaalde configuratie die ingesteld moet worden in het yaml-bestand dat gebruikt wordt om de ‘Pod’ te configureren. ‘ConfigMaps’ zijn een manier configuratie van de applicatie door te geven via omgevingsvariabelen. Deze omgevingsvariabelen kunnen in de yaml-file van de ‘Pod’ gedefinieerd worden aan de hand van een ‘ConfigMap’, dit in de vorm van key-value pairs. Op het einde was er ook nog een demo van hoe we al deze geleerde dingen in de cloud kunnen laten draaien in plaats van lokaal.\n\nIk heb gekozen om dit seminarie bij te wonen omdat Kubernetes perfect aansloot bij een project van mezelf. Het seminarie heeft me geholpen om mijn eigen project, dat al opgesplitst was in micro-services, op een eenvoudige en schaalbare manier te deployen. Naast het feit dat ik de info kon gebruiken is dit ook een interessante extensie op de lessen die we al gekregen hebben over Docker aangezien de ‘Pods’ in Kubernetes berusten op containers, iets wat we in de lessen AI en robotica al uitgebreid gebruikt hebben. De afwisseling tussen theorie en opdrachten tijdens dit seminarie was ideaal, de opdrachten waren ook heel goed opgesteld om alles stap per stap te ondervinden en op een intuïtieve manier de kennis te vergaren. Al bij al viel de moeilijkheid van de opdrachten nog goed mee. Met de officiële documentatie en kennis over Docker en yaml-bestanden waren alle concepten goed te begrijpen.\n\nIk denk dat kennis over Kubernetes nuttig is naar mijn verdere loopbaan, zeker aangezien er momenteel meer en meer gebruik gemaakt wordt van micro-services als architectuur en niet meer de monolieten van vroeger. Ook is DevOps momenteel prevalenter en worden ontwikkelaars ook meer betrokken bij het deployen van software en het bepalen van de architectuur van de servers. De kennis die is opgedaan stelde me tijdens het IT-project ook in staat om de serverarchitectuur, die de SNB-studenten opgesteld hadden, beter te begrijpen. Verder heb ik deze kennis ook nog kunnen toepassen om mijn eigen applicatie, die uit verschillende onderdelen bestond, op een schaalbare en betrouwbare manier in de cloud te laten te draaien.",
+            "pictures": [
+            ]
+        }
+    ],
+    "reflection": "De afgelopen drie jaar op Hogeschool PXL heb ik mezelf leren kennen als ontwikkelaar. Ik ben deze studies begonnen met een passie voor Android development en geëindigd als stagiair iOS developer. Gaandeweg heb ik mijn sterktes, zwaktes, interesses en desinteresses ontdekt. Zo ben ik er snel achtergekomen dat ik verder wou gaan in softwareontwikkeling, dat systemen en netwerken niet voor mij weggelegd zijn, en dat business en management gerelateerde zaken mij niet zo veel deden. De grote conclusie die naar voor bleef komen gedurende deze drie jaar was dat mijn toekomst in front-end development lag, zelfs nadat ik als keuzetraject de keuze had gemaakt voor AI & Robotics.  AI & Robotica was achteraf gezien was dit niet de juiste keuze. Ik had me iets anders voorgesteld bij de opleidingsonderdelen en had al snel door dat dit niet was wat ik wou blijven doen. Het is natuurlijk geen slechte zaak dat ik deze lessen gehad heb, de algoritmen die we in de eerste lessen AI & Robotica behandeld hebben zullen altijd een meerwaarde hebben, verder heb ik nu als ontwikkelaar ook een beter zicht op hoe al deze artificiële intelligentie, wat zonder twijfel de toekomst is, in zijn werk gaatDe vakken omtrent web- en mobile development lagen mij het beste, ook tijdens het IT-project kwamen deze kwaliteiten terug naar boven. Ik heb het gevoel dat ik over het algemeen zeer veel heb bijgeleerd, en op een niveau zit waarvan ik drie jaar geleden dacht dat niet mogelijk was. Voor ik begon aan deze opleiding hoopte ik dat ik met goede punten en zonder opleidingsonderdelen opnieuw te moeten doen af te studeren, tot nu toe zit ik op het goede pad om dit werkelijkheid te maken.\n\nBuiten schoolopdrachten ben ik deze drie jaar ook veel bezig geweest met mijn eigen projectjen waar ik kennis die ik aangeleerd heb tijdens de lessen heb toegepast op mijn eigen ideëen. Zo ben ik anderhalf jaar geleden begonnen met wijzerplaten voor Garmin smartwatches te designen, ontwikkelen en online beschikbaar te stellen. Dit project heeft geleid to het volgende: een online webstore om deze wijzerplaten te kunnen verkopen. Dit was een uitgebreid project dat een paar maanden in beslag heeft genomen. Er is een front-end gemaakt in Vue, en een back-end in NodeJS met ExpressJS, betalingen worden afgehandeld met de PayPalSDK, en als database werd MongoDB gebruikt. In de back-end moest natuurlijk ook een activatiecode gegenereerd worden en deze moest vanaf de smartwatch gebruikt kunnen worden om de wijzerplaat te activeren. Buiten dit project ben ik ook nog actief bezig met een iOS applicatie te maken waarin het aantal kilometers dat op je fiets en zijn componenten staat kan bijhouden. Ik hoop dat ik deze applicatie in de nabije toekomst ook online beschikbaar kan stellen in de App Store. Problemen die ik zelf ondervind probeer ik zo veel mogelijk op te lossen met een web- of mobiele applicatie, de uitdaging om dit te veralgemenen naar de gemiddelde persoon en online beschikbaar te stellen spreekt me iedere keer weer aan.
+"
+}
